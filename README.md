@@ -1,18 +1,25 @@
 # Project1
+Instructor:  Steven Greene  
+Bootcamp:  DU-VIRT-DATA-PT-06-2023  
+25 July 2023  
 
-Netflix User Behaviors and Revenue
-Who are Netflix’s users?
-Age distribution
-Gender
+## Table of Contents
+- [About](#about)
+- [Getting Started](#getting_started)
+- [Contributing](#contributing)
+- [Summary](#summary)
+  
+## About
 
-How are Netflix's users consuming content?
-Mobile
-Desktop
 
-How much revenue is Netflix generating from its users? 
-Revenue Distribution by Country 
+## Getting Started
 
-What is Netflix’s Churn Rate: The churn rate, as defined by users who were active for less than 30 days 
 
-https://www.kaggle.com/code/tumpanjawat/netflix-mini-analysis-demo-habits-geo/notebook
+## Contributing
+- <a href="https://www.github.com/zonaj2/" target="_blank">Juliet Hamilton</a>
+- <a href="https://www.github.com/jgrubb38/" target="_blank">Jennifer Grubb</a>
+- <a href="https://www.github.com/agostinger/" target="_blank">Adam Gostinger/a>
+- <a href="https://www.github.com/ryguy57/" target="_blank">Ryan Himes/a>
 
+
+## Summary
