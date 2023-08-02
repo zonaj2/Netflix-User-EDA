@@ -48,7 +48,7 @@ The analysis shows the majority of Netflix users fall within the age range of 31
 ### Netflix Customer Content Consumption
 Netflix users access the platform through a wide range of devices.  This dataset focused on the following devices: Smart TV, Laptop, Smartphone, and Tablet.
 In the study, the 2500 Netflix users exhibited a uniform distribution across the four device types, with each device type accounting for approximately 25% of the total usage count.
-Within device type the category of Gender was analyzed.  Gender is defined as those identifying as either Male or Female. The results showed that Gender is equally divided among: Smart TV, Laptop, and Tablet.  There was a slight gender difference in the Smartphone usage, with males having a slightly higher percentage of use compared to females. Males, smartphone – 82%, Females, smartphone – 28%.  
+Within device type the category of Gender was analyzed.  Gender is defined as those identifying as either Male or Female. The results showed that Gender is equally divided among: Smart TV, Laptop, and Tablet.  There was a slight gender difference in the Smartphone usage, with males having a slightly higher percentage of use compared to females. Males, smartphone: 82%, Females, smartphone: 28%.  
 <p align="center">
 <img src="https://github.com/zonaj2/Project1/blob/main/images/pie_device_gender.png">  
 </p>  
