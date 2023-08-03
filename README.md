@@ -54,8 +54,8 @@ Within device type the category of Gender was analyzed.  Gender is defined as th
 </p>  
 Exploring the relationship between smartphone usage by males and females for watching Netflix, specifically focusing on screen size differences, can be an interesting analysis. My guess is that:  
 
-1. Males often tend to use smartphones with larger screen sizes for watching Netflix, possibly influenced by the fact that most pockets on men's clothing can better accommodate bigger phones.  
-2. Females, on the other hand, may prefer smartphones with smaller screen sizes for accessing Netflix, as the pockets on their clothing are often less spacious and not as suitable for carrying larger devices.  
+1. Males often tend to use smartphones with larger screen sizes which is more conducive to streaming content on a phone.  
+2. Females, on the other hand, may prefer smartphones with smaller screen sizes. 
 
 The device used to consume Netflix content doesn't seem to have a high impact on the monthly revenue per user, suggesting that Users' device choice is independent of the amount they spend on Netflix each month.  
 <p align="center">
